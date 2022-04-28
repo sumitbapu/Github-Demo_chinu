@@ -1,5 +1,5 @@
-#include<stdio>
+#include<stdio.h>
 {
-Hello sumit sir
+printf("Hello sumit sir")
 Anju Mam
 }
